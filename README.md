@@ -88,17 +88,6 @@ The application provides the probability of customer churn in real time through 
 
 ---
 
-## 📷 Application Preview
-
-### Home Screen
-
-> *(Add your Streamlit homepage screenshot here.)*
-
-### Prediction Result
-
-> *(Add your prediction result screenshot here.)*
-
----
 
 ## ⚙️ Project Structure
 
